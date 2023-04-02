@@ -83,10 +83,13 @@
     grid-row: 5 / 7;
   }
   .hero .info-content h1 {
-    font-size: 3.5em;
+    font-size: 1.2em;
   }
   .hero .info-content h3 {
-    font-size: 1em;
+    font-size: 12px;
+  }
+  .hero .info-content p {
+    font-size: 12px;
   }
   .galeria{
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
